@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27" width="200" />
   <h1>🏋️‍♂️ Hệ Thống ERP Quản Lý Phòng Gym KOI FITNESS</h1>
-  <p><strong>Đồ án môn học: Hệ Hoạch Định Nguồn Lực Doanh Nghiệp (ERP)</strong></p>
 </div>
 
 ---
