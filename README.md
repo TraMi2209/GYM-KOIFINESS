@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Odoo_logo.svg/1200px-Odoo_logo.svg.png" alt="Odoo Logo" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Odoo_logo.svg/1200px-Odoo_logo.svg.png" width="200" />
   <h1>🏋️‍♂️ Hệ Thống ERP Quản Lý Phòng Gym KOI FITNESS</h1>
   <p><strong>Đồ án môn học: Hệ Hoạch Định Nguồn Lực Doanh Nghiệp (ERP)</strong></p>
-  <p>Trường Đại học Ngoại ngữ - Tin học Thành phố Hồ Chí Minh (HUFLIT)</p>
 </div>
 
 ---
@@ -12,12 +11,6 @@
 
 🔗 **[Xem Video Demo Hệ Thống Tại Đây](https://youtu.be/yNVPaE0co0Y?si=W4ijCIS272MkdB7o)**
 
-## 👥 Đội Ngũ Thực Hiện (Nhóm 09)
-* **Giảng viên hướng dẫn:** ThS. Đỗ Phi Hưng
-* **Thành viên:**
-  * 🧑‍💻 **Phan Hoàng Ân** (23DH110177) - *Purchase, Inventory, Data Sản phẩm/Kho/NCC*
-  * 👩‍💻 **Nguyễn Thị Trà Mi** (23DH112041) - *CRM, Data Khách hàng, Cơ cấu doanh nghiệp*
-  * 👩‍💻 **Trịnh Hoàng Huỳnh Trâm** (23DH113684) - *Sales, Data Người dùng, Bán hàng tại quầy*
 
 ## 🛠 Công Nghệ & Nền Tảng
 * **Nền tảng ERP:** Odoo (Phiên bản Enterprise / Community)
