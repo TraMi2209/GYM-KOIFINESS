@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Odoo_logo.svg/1200px-Odoo_logo.svg.png" width="200" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Odoo_logo.svg/60px-Odoo_logo.svg.png" width="200" />
   <h1>🏋️‍♂️ Hệ Thống ERP Quản Lý Phòng Gym KOI FITNESS</h1>
   <p><strong>Đồ án môn học: Hệ Hoạch Định Nguồn Lực Doanh Nghiệp (ERP)</strong></p>
 </div>
